@@ -1,0 +1,6 @@
+[0m[[0m[31merror[0m] [0m[0morg.scalafmt.sbt.ScalafmtSbtReporter$ScalafmtSbtError: scalafmt: /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala:176: error: [dialect scala3] illegal start of statement[0m
+[0m[[0m[31merror[0m] [0m[0m  override def run(args: List[String]): IO[ExitCode] =[0m
+[0m[[0m[31merror[0m] [0m[0m  ^ [/Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala][0m
+[0m[[0m[31merror[0m] [0m[0m(Compile / [31mscalafmtCheck[0m) org.scalafmt.sbt.ScalafmtSbtReporter$ScalafmtSbtError: scalafmt: /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala:176: error: [dialect scala3] illegal start of statement[0m
+[0m[[0m[31merror[0m] [0m[0m  override def run(args: List[String]): IO[ExitCode] =[0m
+[0m[[0m[31merror[0m] [0m[0m  ^ [/Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala][0m

@@ -1,0 +1,49 @@
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E103] Syntax Error: /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala:176:2 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m176 |[0m  [33moverride[0m [33mdef[0m run(args: List[String]): IO[ExitCode] =[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m    |[0m  ^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0m  this kind of statement is not allowed here[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E006] Not Found Error: /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala:123:13 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m123 |[0m        _ <- info [33mmatch[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m    |[0m             ^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0m             Not found: info[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E006] Not Found Error: /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala:126:34 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m126 |[0m              [31ms"TOKENINFO scope=[0m${ti.scope.getOrElse([31m""[0m)}[31m aud=[0m${ti.aud.getOrElse([31m""[0m)}[31m expires_in=[0m${ti.expires_in.getOrElse([31m""[0m)}[31m error=[0m${ti.error.getOrElse([31m""[0m)}[31m desc=[0m${ti.error_description.getOrElse([31m""[0m)}[31m"[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m    |[0m                                  ^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0m                                  Not found: ti[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E006] Not Found Error: /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala:126:64 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m126 |[0m              [31ms"TOKENINFO scope=[0m${ti.scope.getOrElse([31m""[0m)}[31m aud=[0m${ti.aud.getOrElse([31m""[0m)}[31m expires_in=[0m${ti.expires_in.getOrElse([31m""[0m)}[31m error=[0m${ti.error.getOrElse([31m""[0m)}[31m desc=[0m${ti.error_description.getOrElse([31m""[0m)}[31m"[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m    |[0m                                                                ^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0m                                                         Not found: ti[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E006] Not Found Error: /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala:126:99 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m126 |[0m              [31ms"TOKENINFO scope=[0m${ti.scope.getOrElse([31m""[0m)}[31m aud=[0m${ti.aud.getOrElse([31m""[0m)}[31m expires_in=[0m${ti.expires_in.getOrElse([31m""[0m)}[31m error=[0m${ti.error.getOrElse([31m""[0m)}[31m desc=[0m${ti.error_description.getOrElse([31m""[0m)}[31m"[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m    |[0m                                                                                                   ^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0m                                                         Not found: ti[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E006] Not Found Error: /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala:126:136 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m126 |[0m              [31ms"TOKENINFO scope=[0m${ti.scope.getOrElse([31m""[0m)}[31m aud=[0m${ti.aud.getOrElse([31m""[0m)}[31m expires_in=[0m${ti.expires_in.getOrElse([31m""[0m)}[31m error=[0m${ti.error.getOrElse([31m""[0m)}[31m desc=[0m${ti.error_description.getOrElse([31m""[0m)}[31m"[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m    |[0m                                                                                                                                        ^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0m                                                         Not found: ti[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E006] Not Found Error: /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala:126:167 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m126 |[0m              [31ms"TOKENINFO scope=[0m${ti.scope.getOrElse([31m""[0m)}[31m aud=[0m${ti.aud.getOrElse([31m""[0m)}[31m expires_in=[0m${ti.expires_in.getOrElse([31m""[0m)}[31m error=[0m${ti.error.getOrElse([31m""[0m)}[31m desc=[0m${ti.error_description.getOrElse([31m""[0m)}[31m"[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m    |[0m                                                                                                                                                                       ^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0m                                                         Not found: ti[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E006] Not Found Error: /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala:129:50 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m129 |[0m            IO.println([31ms"TOKENINFO call failed: [0m${e.getMessage}[31m"[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m    |[0m                                                  ^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0m                                                  Not found: e[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m8 errors found[0m

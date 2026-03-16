@@ -1,0 +1,7 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(scalafmt, Some(e3d8c2ce-68b6-4b20-9b9f-ac61c1b743c7), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / scalafmt[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mscalafmt: Formatting 1 Scala sources (/Users/priyankabose/Desktop/VSCodeProjects/scalar-demo)...[0m
+[0m[[0m[0minfo[0m] [0m[0mscalafmt: Reformatted 1 Scala sources[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 2 s, completed Mar 13, 2026, 3:13:32 AM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m

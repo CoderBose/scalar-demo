@@ -1,0 +1,945 @@
+2026.03.13 02:13:59 INFO  Started: Metals version 1.6.6 in folders '/Users/priyankabose/Desktop/VSCodeProjects/scalar-demo' for client Visual Studio Code 1.111.0.
+2026.03.13 02:13:59 INFO  Memory monitor started
+2026.03.13 02:13:59 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.03.13 02:13:59 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+Mar 13, 2026 2:14:01 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2026.03.13 02:14:01 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:14:01 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:14:01 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:14:01 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:14:02 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:14:02 WARN  no build target for: /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt
+2026.03.13 02:14:02 WARN  Could not find semantic tokens for: file:///Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt
+2026.03.13 02:14:02 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:14:02 WARN  Could not find semantic tokens for: file:///Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt
+2026.03.13 02:14:13 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:14:13 WARN  Could not find semantic tokens for: file:///Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala
+2026.03.13 02:14:13 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:14:13 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:14:13 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:14:14 WARN  no build target for: /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala
+2026.03.13 02:14:14 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:14:14 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+Mar 13, 2026 2:14:24 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Mar 13, 2026 2:14:26 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.03.13 02:14:33 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:14:36 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:15:21 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:15:23 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:15:23 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:15:23 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:15:23 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:15:23 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:15:23 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:15:24 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:15:24 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:15:24 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:15:24 WARN  no build target for: /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala
+2026.03.13 02:15:24 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:15:24 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:15:24 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:15:25 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:15:25 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:15:32 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:15:33 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:15:33 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:15:33 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:15:34 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:15:33 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:15:34 WARN  no build target for: /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala
+2026.03.13 02:15:34 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:15:34 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:15:34 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:15:34 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+Exception in thread "pool-25-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:208)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2026.03.13 02:15:46 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:15:46 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:15:46 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:15:46 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:15:46 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:15:46 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:15:47 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:15:47 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:15:47 WARN  no build target for: /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala
+2026.03.13 02:15:47 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:28:37 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:28:37 WARN  no build target for: /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt
+2026.03.13 02:28:37 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:28:37 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:28:37 WARN  Could not find semantic tokens for: file:///Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt
+2026.03.13 02:28:37 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:28:39 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:28:39 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:28:40 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:28:40 WARN  Could not find semantic tokens for: file:///Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt
+2026.03.13 02:28:39 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:28:41 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:28:41 WARN  Could not find semantic tokens for: file:///Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt
+2026.03.13 02:28:41 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:28:41 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:28:41 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:28:41 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:28:41 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:28:41 WARN  Could not find semantic tokens for: file:///Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt
+2026.03.13 02:28:41 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:28:41 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:28:42 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:28:42 WARN  Could not find semantic tokens for: file:///Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt
+2026.03.13 02:28:42 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:28:42 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:28:42 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:28:42 WARN  Could not find semantic tokens for: file:///Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt
+2026.03.13 02:28:42 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:28:42 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:28:42 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:28:43 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:28:43 WARN  Could not find semantic tokens for: file:///Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt
+2026.03.13 02:28:43 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:28:43 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:28:43 WARN  Could not find semantic tokens for: file:///Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt
+2026.03.13 02:28:43 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:28:43 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:28:43 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:28:43 WARN  Could not find semantic tokens for: file:///Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt
+2026.03.13 02:28:44 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:28:44 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:28:44 WARN  no build target for: /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt
+2026.03.13 02:28:44 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:28:44 WARN  Could not find semantic tokens for: file:///Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt
+2026.03.13 02:28:45 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:28:45 WARN  Could not find semantic tokens for: file:///Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt
+2026.03.13 02:32:31 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:32:31 WARN  no build target for: /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala
+2026.03.13 02:32:31 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:32:31 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:32:31 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:32:31 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:32:31 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:32:31 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:32:31 INFO  Created report: Optional[file:///Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala]
+2026.03.13 02:32:31 INFO  empty definition using pc, found symbol in pc:  (full report at: "/Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/.metals/.reports/metals-full/2026-03-13/r_empty-definition_02-32-32-022.md")
+2026.03.13 02:32:31 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:32:31 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:32:32 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+Exception in thread "pool-47-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:208)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2026.03.13 02:32:32 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:32:31 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:32:32 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:32:32 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:32:32 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:32:32 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:33:19 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:33:19 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:33:19 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:33:19 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:33:19 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:52:07 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:52:07 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:52:09 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:52:09 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:52:11 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:52:59 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:53:03 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:53:03 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:53:03 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:53:03 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:53:03 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:53:04 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:53:04 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:53:04 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:53:04 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:53:05 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:53:17 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:53:34 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:53:37 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:53:41 WARN  no build target for: /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala
+2026.03.13 02:53:41 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:53:41 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:53:57 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:53:57 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:53:57 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:53:57 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:53:57 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:53:58 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:53:59 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:53:59 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:53:59 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:53:59 WARN  no build target for: /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala
+2026.03.13 02:53:59 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:53:59 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:54:56 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:54:56 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:54:58 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:55:04 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:55:04 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:55:04 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:55:04 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:55:05 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:55:05 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:55:05 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:55:05 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:55:06 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:55:07 WARN  no build target for: /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala
+2026.03.13 02:55:07 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:55:07 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:55:16 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:55:16 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:55:16 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:55:20 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:55:20 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:55:34 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:55:34 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:56:26 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:56:26 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:56:26 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:56:26 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:56:26 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:56:26 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:56:26 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:56:27 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:56:27 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:56:28 WARN  no build target for: /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala
+2026.03.13 02:56:28 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:56:49 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:56:49 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:56:49 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:56:49 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:57:01 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:57:01 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:57:01 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:57:01 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:57:02 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:57:02 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:57:02 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:57:02 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:57:02 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:57:03 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:57:03 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:57:03 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:57:03 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:57:04 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:57:05 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:57:05 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:57:05 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:57:07 WARN  no build target for: /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala
+2026.03.13 02:57:07 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:57:07 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:57:13 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:57:23 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:57:23 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:57:23 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:57:23 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:57:31 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:57:31 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:57:31 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:57:31 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:57:31 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:57:32 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:57:31 INFO  empty definition using pc, found symbol in pc:  (full report at: "/Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/.metals/.reports/metals-full/2026-03-13/r_empty-definition_02-32-32-022.md")
+2026.03.13 02:57:31 WARN  no build target for: /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala
+2026.03.13 02:57:32 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:57:42 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:57:42 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:57:42 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:57:42 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:57:44 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:57:44 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:57:46 WARN  no build target for: /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala
+2026.03.13 02:57:46 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:57:46 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:57:47 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:57:47 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:58:01 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:58:01 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:58:04 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:58:05 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:58:05 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:58:05 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:58:05 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:58:05 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:58:05 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:58:05 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:58:06 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:58:06 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:58:06 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:58:07 WARN  no build target for: /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala
+2026.03.13 02:58:07 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:58:16 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:58:16 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:58:16 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:58:17 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:58:17 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:58:17 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:58:17 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:58:17 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:58:18 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:58:17 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:58:18 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:58:18 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:58:18 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:58:19 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:58:19 WARN  no build target for: /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala
+2026.03.13 02:58:19 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 02:58:19 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:00:56 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:00:56 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:00:56 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:00:56 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:00:56 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:00:57 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:00:57 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:00:57 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:00:58 WARN  no build target for: /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala
+2026.03.13 03:00:58 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:01:11 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:01:43 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:01:43 WARN  no build target for: /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt
+2026.03.13 03:01:43 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:01:43 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:01:43 WARN  Could not find semantic tokens for: file:///Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt
+2026.03.13 03:01:43 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:01:43 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:01:44 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:01:44 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:01:44 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:01:44 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:01:44 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:01:44 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:01:45 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:01:45 WARN  Could not find semantic tokens for: file:///Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt
+2026.03.13 03:01:46 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:01:46 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:01:46 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:01:46 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:01:46 WARN  Could not find semantic tokens for: file:///Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt
+2026.03.13 03:01:46 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:01:46 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:01:47 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:01:47 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:01:47 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:01:47 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:01:48 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:01:48 WARN  Could not find semantic tokens for: file:///Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt
+2026.03.13 03:01:47 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:01:48 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:01:48 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:01:48 WARN  Could not find semantic tokens for: file:///Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt
+2026.03.13 03:01:48 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:01:49 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:01:49 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:01:49 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:01:49 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:01:51 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:01:51 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:01:51 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:01:51 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:01:51 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:01:51 WARN  Could not find semantic tokens for: file:///Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt
+2026.03.13 03:01:52 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:01:52 WARN  Could not find semantic tokens for: file:///Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt
+2026.03.13 03:01:52 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:01:52 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:01:52 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:01:52 WARN  Could not find semantic tokens for: file:///Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt
+2026.03.13 03:01:54 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:01:54 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:01:55 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:01:55 WARN  Could not find semantic tokens for: file:///Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt
+2026.03.13 03:01:55 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:01:55 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:01:55 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:01:55 WARN  Could not find semantic tokens for: file:///Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt
+2026.03.13 03:01:56 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:01:56 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:01:56 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:01:58 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:01:58 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:01:58 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:01:58 WARN  Could not find semantic tokens for: file:///Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt
+2026.03.13 03:01:59 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:01:59 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:01:59 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:01:59 WARN  Could not find semantic tokens for: file:///Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt
+2026.03.13 03:01:59 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:01:59 WARN  no build target for: /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt
+2026.03.13 03:01:59 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:01:59 WARN  Could not find semantic tokens for: file:///Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt
+2026.03.13 03:02:00 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:02:00 WARN  Could not find semantic tokens for: file:///Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt
+2026.03.13 03:02:01 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:02:01 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:02:01 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:02:01 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:02:01 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:02:01 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:02:12 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:02:12 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:02:13 WARN  no build target for: /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala
+2026.03.13 03:02:13 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:02:12 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:02:12 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:02:15 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:02:15 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:02:16 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:02:16 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:02:16 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:02:16 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:02:17 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:02:18 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:02:18 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:02:18 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:02:19 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:02:19 WARN  no build target for: /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala
+2026.03.13 03:02:19 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:02:19 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:02:23 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:02:23 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:02:24 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:02:24 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:02:24 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:02:25 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:02:26 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:02:26 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:02:26 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:02:26 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:02:26 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:02:26 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:02:26 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:02:27 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:02:27 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:02:27 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:02:28 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:02:29 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:02:29 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:02:29 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:02:30 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:02:31 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:02:31 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:02:31 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:02:36 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:02:36 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:02:36 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:02:37 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:02:36 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:02:37 WARN  no build target for: /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala
+2026.03.13 03:02:38 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:02:38 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:02:44 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:02:44 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:02:44 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:02:45 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:02:45 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:02:45 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:02:45 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:02:47 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:02:47 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:02:47 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:02:47 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:02:48 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:02:49 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:02:49 WARN  no build target for: /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala
+2026.03.13 03:02:49 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:03:15 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:03:15 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:03:15 WARN  no build target for: /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt
+2026.03.13 03:03:15 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:03:15 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:03:15 WARN  Could not find semantic tokens for: file:///Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt
+2026.03.13 03:03:15 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:03:15 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:03:15 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:03:15 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:03:15 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:03:15 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:03:15 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:03:16 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:03:36 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:03:36 WARN  no build target for: /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala
+2026.03.13 03:03:36 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:03:36 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:03:36 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:03:36 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:03:36 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:03:36 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:03:37 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:03:37 INFO  Created report: Optional[file:///Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala]
+2026.03.13 03:03:37 INFO  empty definition using pc, found symbol in pc:  (full report at: "/Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/.metals/.reports/metals-full/2026-03-13/r_empty-definition_03-03-37-678.md")
+2026.03.13 03:03:38 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:03:38 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:03:38 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:03:38 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:03:38 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:03:38 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:03:38 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:03:39 WARN  no build target for: /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala
+2026.03.13 03:03:39 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:03:45 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:03:45 WARN  no build target for: /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt
+2026.03.13 03:03:45 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:03:45 WARN  Could not find semantic tokens for: file:///Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt
+2026.03.13 03:03:45 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:03:45 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:03:46 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:03:46 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:03:46 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:03:46 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:03:46 WARN  Could not find semantic tokens for: file:///Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt
+2026.03.13 03:03:47 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:03:47 WARN  no build target for: /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt
+2026.03.13 03:03:47 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:03:47 WARN  Could not find semantic tokens for: file:///Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt
+2026.03.13 03:03:47 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:03:47 WARN  Could not find semantic tokens for: file:///Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt
+2026.03.13 03:03:50 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:03:50 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:03:52 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:03:52 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:03:52 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:03:52 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:03:52 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:03:54 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:03:54 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:03:54 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:03:54 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:03:54 WARN  Could not find semantic tokens for: file:///Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt
+2026.03.13 03:03:55 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:03:56 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:03:56 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:03:56 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:03:56 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:03:57 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:03:57 WARN  Could not find semantic tokens for: file:///Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt
+2026.03.13 03:03:57 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:03:57 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:03:57 WARN  Could not find semantic tokens for: file:///Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt
+2026.03.13 03:03:57 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:03:57 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:03:57 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:03:57 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:03:57 WARN  Could not find semantic tokens for: file:///Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt
+2026.03.13 03:03:59 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:03:59 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:03:59 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:03:59 WARN  Could not find semantic tokens for: file:///Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt
+2026.03.13 03:03:59 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:04:00 WARN  no build target for: /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt
+2026.03.13 03:04:00 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:03:59 WARN  Could not find semantic tokens for: file:///Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt
+2026.03.13 03:03:59 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:03:59 WARN  Could not find semantic tokens for: file:///Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt
+2026.03.13 03:04:01 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:04:01 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:04:44 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:04:44 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:04:44 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:04:44 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:04:44 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:04:45 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:04:45 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:04:45 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:04:46 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:04:46 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:04:46 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:04:46 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:04:48 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:04:48 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:04:48 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:04:48 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:04:48 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:04:48 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:04:49 WARN  no build target for: /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt
+2026.03.13 03:04:49 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:04:49 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:05:12 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:06:21 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:06:21 WARN  no build target for: /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala
+Mar 13, 2026 3:06:21 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 889
+2026.03.13 03:06:21 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:06:21 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:06:21 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:06:21 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:06:29 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:06:29 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:06:29 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:06:30 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:06:30 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:06:30 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:06:30 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:06:30 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:06:30 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:06:31 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:06:30 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:06:31 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:06:32 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:06:32 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:06:32 WARN  no build target for: /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala
+2026.03.13 03:06:32 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:06:36 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:06:36 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:06:36 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:07:38 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:07:38 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:07:38 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:07:38 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:07:38 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:07:38 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:07:38 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:07:39 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:07:40 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:07:40 WARN  no build target for: /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala
+2026.03.13 03:07:39 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:07:40 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:07:47 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:07:54 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:09:13 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:09:13 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:09:20 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:09:20 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:09:20 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:09:20 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:09:21 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:09:20 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:09:22 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:09:22 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:09:22 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:09:22 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:09:22 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:09:23 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:09:24 WARN  no build target for: /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala
+2026.03.13 03:09:24 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:09:24 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:09:24 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:09:24 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:09:24 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:09:24 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+Exception in thread "pool-238-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:208)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2026.03.13 03:09:24 INFO  empty definition using pc, found symbol in pc:  (full report at: "/Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/.metals/.reports/metals-full/2026-03-13/r_empty-definition_02-32-32-022.md")
+2026.03.13 03:09:38 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:09:50 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:09:50 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:09:51 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:09:53 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:10:00 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:10:00 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:10:00 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:10:00 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:10:01 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:10:01 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:10:01 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:10:01 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:10:02 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:10:01 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:10:02 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:10:02 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:10:02 WARN  no build target for: /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala
+2026.03.13 03:10:02 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:10:12 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:10:12 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:10:13 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:10:21 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:11:09 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:11:09 WARN  no build target for: /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala
+2026.03.13 03:11:09 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+Mar 13, 2026 3:11:09 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1040
+2026.03.13 03:11:09 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:11:09 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:11:15 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:11:15 WARN  Could not find semantic tokens for: file:///Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/project/plugins.sbt
+2026.03.13 03:11:16 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:11:16 WARN  no build target for: /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/project/plugins.sbt
+2026.03.13 03:11:16 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:11:16 WARN  Could not find semantic tokens for: file:///Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/project/plugins.sbt
+2026.03.13 03:11:16 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:11:16 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:11:17 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:11:17 WARN  Could not find semantic tokens for: file:///Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/project/plugins.sbt
+2026.03.13 03:11:16 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:11:16 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:11:17 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:11:17 WARN  Could not find semantic tokens for: file:///Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/project/plugins.sbt
+2026.03.13 03:11:21 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:11:21 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:11:21 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:11:21 WARN  Could not find semantic tokens for: file:///Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/project/plugins.sbt
+2026.03.13 03:11:21 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:11:22 WARN  no build target for: /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/project/plugins.sbt
+2026.03.13 03:11:22 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:11:21 WARN  Could not find semantic tokens for: file:///Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/project/plugins.sbt
+2026.03.13 03:11:22 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:11:22 WARN  Could not find semantic tokens for: file:///Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/project/plugins.sbt
+2026.03.13 03:11:48 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:11:48 WARN  no build target for: /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala
+Mar 13, 2026 3:11:48 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1087
+2026.03.13 03:11:48 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:11:48 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:11:48 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:12:46 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:12:46 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:12:46 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:13:09 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:13:09 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:13:09 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:13:09 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:13:09 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:13:09 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:13:10 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:13:10 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:13:11 WARN  no build target for: /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala
+2026.03.13 03:13:11 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:13:21 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:13:32 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 03:13:32 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:08:35 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:08:35 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:08:35 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:08:35 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:08:36 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:08:36 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:08:36 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:08:37 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:08:38 WARN  no build target for: /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala
+2026.03.13 04:08:38 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:08:38 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:08:42 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:08:51 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:08:51 WARN  no build target for: /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt
+2026.03.13 04:08:51 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:08:52 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:08:52 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:08:52 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:08:52 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:08:52 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:08:53 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:08:54 WARN  no build target for: /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt
+2026.03.13 04:08:54 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:08:54 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:08:54 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:09:20 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:13:00 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:13:00 WARN  no build target for: /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala
+Mar 13, 2026 4:13:00 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1190
+2026.03.13 04:13:00 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:13:00 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:13:00 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:13:00 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:13:05 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:13:05 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:30:51 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:30:51 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:30:53 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:30:53 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:33:27 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:33:27 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:33:27 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:33:28 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:33:28 INFO  empty definition using pc, found symbol in pc:  (full report at: "/Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/.metals/.reports/metals-full/2026-03-13/r_empty-definition_02-32-32-022.md")
+2026.03.13 04:33:29 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:33:29 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:33:29 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:33:29 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:33:29 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:33:30 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:33:31 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:33:31 WARN  no build target for: /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala
+2026.03.13 04:33:31 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:33:41 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:39:07 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:39:12 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:39:12 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:39:13 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:39:55 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:39:55 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:39:55 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:39:55 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:42:05 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:42:05 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:42:05 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:42:06 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:42:06 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:42:07 WARN  no build target for: /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala
+2026.03.13 04:42:07 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:42:50 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:54:24 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:54:24 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:54:25 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:54:26 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:54:29 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:54:29 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:54:29 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:54:30 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:54:30 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:54:30 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:54:30 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:54:31 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:54:31 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:54:35 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:54:36 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:54:37 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:54:37 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:54:37 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:54:37 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:54:39 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:54:39 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:54:39 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:54:39 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:54:39 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:54:40 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:54:40 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:54:40 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:54:40 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:54:40 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:54:42 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:54:43 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:54:43 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:54:44 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:54:44 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:54:45 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:54:47 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:54:47 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:54:47 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:54:47 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:54:47 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:54:48 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:54:48 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:54:48 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:54:49 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:54:49 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:54:49 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:54:50 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:54:49 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:54:50 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:54:50 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:54:50 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:54:50 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:54:50 WARN  no build target for: /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala
+2026.03.13 04:54:50 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:54:50 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:54:51 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:54:50 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:54:51 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:54:52 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:54:52 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:54:52 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:54:54 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:54:54 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:54:55 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:54:55 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:54:55 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:54:55 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:54:55 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:54:56 WARN  no build target for: /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala
+2026.03.13 04:54:56 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:54:58 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+Mar 13, 2026 4:54:58 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1373
+2026.03.13 04:55:02 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:55:02 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:55:02 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:55:02 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:55:03 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:55:03 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:55:03 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:55:04 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:55:06 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:55:06 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:55:06 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:55:06 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:55:06 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:55:07 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:55:07 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:55:07 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:55:07 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:55:10 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:55:10 WARN  no build target for: /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala
+2026.03.13 04:55:10 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:55:11 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:55:11 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:55:11 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:55:14 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:55:14 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:55:14 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:55:15 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:55:14 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:55:15 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:55:17 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:55:17 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:55:17 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:55:22 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:55:22 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:55:22 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:55:22 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:55:23 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:55:23 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:55:24 WARN  no build target for: /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala
+2026.03.13 04:55:24 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:55:24 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:55:27 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:55:29 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:55:31 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:55:31 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:55:31 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:55:32 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:55:32 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:55:32 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:55:32 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:55:33 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:55:32 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:55:33 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:55:34 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:55:34 WARN  no build target for: /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala
+2026.03.13 04:55:33 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 04:55:52 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 05:00:13 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 05:01:27 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 05:01:27 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 05:01:31 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 05:01:32 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 05:01:32 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 05:01:34 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 05:01:38 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 05:01:38 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 05:01:39 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+Mar 13, 2026 5:01:39 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1520
+2026.03.13 05:01:40 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 05:08:29 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 05:10:13 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 05:10:13 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 05:10:16 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 05:10:16 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 05:10:16 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 05:10:17 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 05:10:17 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.13 05:10:23 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.16 16:01:13 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.16 16:01:13 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+Mar 16, 2026 4:01:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1537
+2026.03.16 16:01:13 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.16 16:01:13 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.16 16:09:09 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
