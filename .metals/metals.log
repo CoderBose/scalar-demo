@@ -943,3 +943,11 @@ WARNING: Unmatched cancel notification for request id 1537
 2026.03.16 16:01:13 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
 2026.03.16 16:01:13 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
 2026.03.16 16:09:09 INFO  no build target found for /Users/priyankabose/Desktop/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.22 19:22:01 INFO  Started: Metals version 1.6.6 in folders '/Users/priyanka.bose/VSCodeProjects/scalar-demo' for client Visual Studio Code 1.99.3.
+2026.03.22 19:22:01 INFO  Memory monitor started
+Mar 22, 2026 7:22:03 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.03.22 19:22:05 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.03.22 19:25:59 INFO  no build target found for /Users/priyanka.bose/VSCodeProjects/scalar-demo/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.22 19:25:59 INFO  no build target found for /Users/priyanka.bose/VSCodeProjects/scalar-demo/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.22 19:26:02 INFO  no build target found for /Users/priyanka.bose/VSCodeProjects/scalar-demo/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.7
