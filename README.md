@@ -94,6 +94,9 @@ The server will log token debug info (length, prefix, validity via Google's `tok
 - [Working of MCP client-server architecture (off the shelf)](https://youtu.be/OQctb_H9cns)
 - [Working of MCP client-server architecture (MCP server implemented with Scala)](https://youtu.be/MqeftfGKeRc)
 
+Slides I presented at Scalar 2026 are linked below:
+- [Scalar Slides](https://www.canva.com/design/DAG-Omrrig8/ZTXJN1x9jzUVTbEYRYvUIQ/edit?utm_content=DAG-Omrrig8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
+
 ## Project structure
 
 ```
